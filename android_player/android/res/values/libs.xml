@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <array name="qt_sources">
+        <item>https://download.qt.io/ministro/android/qt5/qt-5.9</item>
+    </array>
+
+    <!-- The following is handled automatically by the deployment tool. It should
+         not be edited manually. -->
+
+    <array name="bundleds">
+        <!-- %%INSERT_EXTRAS%% -->
+    </array>
+
+     <array name="qts">
+         <!-- %%INSERT_QTS%% -->
+     </array>
+
+    <array name="bundled_in">
+        <!-- %%INSERT_BUNDLED_IN%% -->
+    </array>
+    <array name="bundled_in_assets">
+        <!-- %%INSERT_BUNDLED_IN_ASSETS%% -->
+    </array>
+
+</resources>
