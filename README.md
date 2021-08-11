@@ -1,1 +1,1 @@
-# qt_quick_android_media_player
+# qtquick_android_media_player
